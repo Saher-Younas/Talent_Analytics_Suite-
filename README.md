@@ -44,8 +44,8 @@ This project integrates **KoboToolbox** with **Microsoft Excel** to automate dat
   - Age Distribution
 - Dashboard Background: ![HR_Analytics_Dashboard_Background](https://github.com/user-attachments/assets/f60c58e1-1bdd-4f90-8088-9f975f547757)
 
-- Screenshot of the Dashboard: *![image](https://github.com/user-attachments/assets/7f572665-0e2e-4432-9d5a-cde81b855058)
-*
+- Screenshot of the Dashboard:![image](https://github.com/user-attachments/assets/7f572665-0e2e-4432-9d5a-cde81b855058)
+
 ### 5. Data Visualization and Analysis
 - **Pivot Tables & Charts**:
   - A **KPI sheet** was created to perform various HR analyses.
