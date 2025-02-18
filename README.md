@@ -22,9 +22,9 @@ This project integrates **KoboToolbox** with **Microsoft Excel** to automate dat
   1. Open **Excel** and navigate to **Data** > **Get Data** > **From Web**.
   2. Paste the KoboToolbox API link and click **Load**.
   3. After submission of a new form, click **Refresh All** to update the data dynamically.
-- Dataset Link: *(https://github.com/Saher-Younas/Talent_Analytics_Suite-/blob/main/Talent_Analytics_Dataset.xlsx)*
+- Dataset Link: [Dataset](https://github.com/Saher-Younas/Talent_Analytics_Suite-/blob/main/Talent_Analytics_Dataset.xlsx)
 - Screenshot of the Excel Integration: *![image](https://github.com/user-attachments/assets/8a844e4a-0118-461d-81e3-67d224034a06)
-)*
+
 
 ### 3. Data Processing in Excel
 - Additional columns were created in the Excel sheet to derive insights:
@@ -42,8 +42,8 @@ This project integrates **KoboToolbox** with **Microsoft Excel** to automate dat
   - Attrition Rate Analysis
   - Tenure Insights
   - Age Distribution
-- Dashboard Background Link: *![HR_Analytics_Dashboard_Background](https://github.com/user-attachments/assets/f60c58e1-1bdd-4f90-8088-9f975f547757)
-*
+- Dashboard Background: ![HR_Analytics_Dashboard_Background](https://github.com/user-attachments/assets/f60c58e1-1bdd-4f90-8088-9f975f547757)
+
 - Screenshot of the Dashboard: *![image](https://github.com/user-attachments/assets/7f572665-0e2e-4432-9d5a-cde81b855058)
 *
 ### 5. Data Visualization and Analysis
