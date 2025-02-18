@@ -14,7 +14,6 @@ This project integrates **KoboToolbox** with **Microsoft Excel** to automate dat
   - Year of Joining
   - Attrition Status
   - Tenure
-- Screenshot of the Form: *(Attach a screenshot of the form here)*
 
 ### 2. Integrating KoboToolbox Data with Excel
 - **KoboToolbox API** fetched real-time form responses into an Excel sheet.
